@@ -1,11 +1,10 @@
 # Project template
 - layout: top-middle
   name: INTRODUCCION AL SOFTWARE
-  link: https://drive.google.com/file/d/1KUXkj3eu6fTugPnOL7qIuc0ni5Wy7nsB/view
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: https://drive.google.com/file/d/14o4jERFj2tJwdnx1IPnl67TZpgsE1CwO/view?usp=sharinghttps://drive.google.com/drive/folders/1z0cbKmg2P67yNzZjY7ZE31dexjmuWTsQ?usp=sharing
+  
+ github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-   link: https://drive.google.com/file/d/14o4jERFj2tJwdnx1IPnl67TZpgsE1CwO/view?usp=sharing
-   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+   Esto es un link con todo lo que tiene que ver con la introduccion a la Ing. en software
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
