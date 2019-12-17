@@ -5,5 +5,5 @@
   #qualification: Qualifications (eg. BA Performing Arts)
   quote: >
     La facultad en la que estudio es la de ciencias y matematicas, pero mi carrera se enuentra en la ciudadela de 9 de octubre
-  description: | # this will include new lines to allow paragraphs
+  #description: | # this will include new lines to allow paragraphs
     Description of qualification
