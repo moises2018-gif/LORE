@@ -42,8 +42,7 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.xing_username -%}
-
+        {%- if site.pinterest_username -%}
           <li>
             <a target="_blank" href="https://www.pinterest.com/{{ site.pinterest_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fab fa-pinterest" title="Pintrest link"></i>
@@ -63,13 +62,7 @@
               <i class="fab fa-youtube" title="Youtube link"></i>
             </a>
           </li>
-        {%- endif -%}
-        {%- if site.googleplus_username -%}
-          <li>
-            <a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-google-plus" title="Google plus link"></i>
-            </a>
-          </li>
+        
         {%- endif -%}
       </ul>
 
