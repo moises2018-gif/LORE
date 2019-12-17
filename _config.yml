@@ -47,7 +47,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Mi meta a corto plazo es ser uno de los mejores estudiantes en la facultad, a fin de que pueda alcanzar logros y reconocimientos, y en algún momento ser ayudante de catedra.
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 # Footer
 footer_show_references: true
 
