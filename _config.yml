@@ -3,15 +3,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: MOISES OCHOA NARANJO
+name: JOEL ABRAHAM PLUAS
 title: MI PRIMER BLOG
-email: m_j_fortaleza@hotmail.com
+email: ellokp2001@gmail.com
 phone: 0943555698
-website: mjfortaleza00@gmail.com
+#website: mjfortaleza00@gmail.com
 
 # Social links
-twitter_username: moises82873087
-github_username:  jekyll
+twitter_username: JoelPluas4
+github_username:  JoelPluas4
 #dribbble_username: jekyll
 facebook_username: Moises.david.019
 #flickr_username: jekyll
